@@ -1,0 +1,9 @@
+The data for this project were taken from @swapnjeet S, from YouTube Data Tutorials. In this project, I have covered:
+- Gathering the requirements from Client
+- Identifying the stakeholders 
+- Data Cleaning, like Sort, filter, formatted in a easily readable view, fixed typo error.
+- Data Processing: I have added a monthly column to find out the monthly trend through out the year, using Function =Text.
+- Data Analysis : Pivot Tables, Pivot table analyzer to merge some cell, and other Excel Function
+- Data analysis Sheet to show the mathematics/statistical work
+- Data Visualization to create charts and customized the sheet to show the insights
+- Well Design DASHBOARD

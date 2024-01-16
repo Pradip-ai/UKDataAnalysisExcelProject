@@ -1,9 +1,31 @@
 The data for this project were taken from @swapnjeet S, from YouTube Data Tutorials. In this project, I have covered:
-- Gathering the requirements from Client
-- Identifying the stakeholders 
-- Data Cleaning, like Sort, filter, formatted in a easily readable view, fixed typo error.
-- Data Processing: I have added a monthly column to find out the monthly trend through out the year, using Function =Text.
-- Data Analysis : Pivot Tables, Pivot table analyzer to merge some cell, and other Excel Function
-- Data analysis Sheet to show the mathematics/statistical work
-- Data Visualization to create charts and customized the sheet to show the insights
-- Well Design DASHBOARD
+
+Primary KPI - Monthly Trend (Year 2021 and 2022):
+
+Total casualties for the given period: 134,613
+Notable monthly trends in 2022, showcasing variations in the number of casualties.
+Vehicles Type Breakdown:
+
+Cars contribute significantly to casualties, with 107,637 reported incidents.
+Agricultural vehicles, bikes, vans, buses, and others also contribute to the overall casualty count.
+Road Type Analysis:
+
+Single carriageways account for the highest number of casualties, totaling 103.1K.
+Other road types, such as roundabouts and dual carriageways, also contribute significantly.
+Detailed breakdown of casualties by road type.
+Road Surface Conditions:
+
+Dry conditions lead to the highest number of casualties, with 94,924 reported incidents.
+Wet conditions and snow/ice also contribute, showcasing the impact of road surface on casualty rates.
+Casualties by Light:
+
+Daylight conditions witness a higher number of casualties, with 139.6K reported incidents.
+Dark conditions contribute to a significant but comparatively lower number of casualties, totaling 49.7K.
+Urban/Rural Distribution:
+
+Urban areas contribute significantly to casualties, with 189.2K reported incidents.
+A brief overview of casualties in daylight and dark conditions in both urban and rural areas.
+Overall Summary:
+
+The data highlights the importance of considering various factors, including road type, surface conditions, and light conditions, in understanding and addressing casualties.
+These insights can inform strategic decisions and interventions aimed at improving road safety and reducing casualties.
